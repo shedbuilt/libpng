@@ -1,0 +1,7 @@
+NAME=libpng
+VERSION=1.6.34
+REVISION=1
+SRC=https://downloads.sourceforge.net/libpng/libpng-1.6.34.tar.xz
+SRCMD5=c05b6ca7190a5e387b78657dbe5536b2
+BUILDDEPS=zlib
+INSTALLDEPS=zlib
